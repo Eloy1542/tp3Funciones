@@ -15,3 +15,7 @@ function tabla(numero) {
 }
 document.write(`</tbody>
 </table>`);
+
+
+
+
